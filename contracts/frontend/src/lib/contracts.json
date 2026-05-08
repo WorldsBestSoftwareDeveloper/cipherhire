@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "taskManager": "0xbEEb92B2DAC2c7B00880902Dc475eb0081De0a97",
+  "bidManager": "0x44Ab12CDfa095De9adb7B6f981767fb8C66efA67",
+  "matchingEngine": "0x252464f63FD67A9b5432966D41e4B86772C2ebA3",
+  "deployedAt": "2026-05-05T11:58:15.567Z",
+  "deployer": "0x226BD526a1E8D6Cc163345CA11C6E0D5E1f8FDdC"
+}

@@ -1,0 +1,22 @@
+# Dependencies — large folders, not needed on GitHub
+node_modules/
+.next/
+
+# Secret files — NEVER upload these
+.env
+contracts/.env
+frontend/.env.local
+
+# Build output
+contracts/artifacts/
+contracts/cache/
+contracts/typechain-types/
+contracts/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
